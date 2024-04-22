@@ -1,0 +1,173 @@
+.navbar .up-nav{
+    background-color: rgb(8, 31, 8);
+    width: 100%;
+    margin-top: -20px;
+}
+
+.navbar .up-nav ul{
+    margin-left: 900px;
+}
+
+.navbar .up-nav ul li{
+    margin-right: -15px;
+}
+
+.navbar .down-nav{
+    background-color: rgb(28, 72, 28);
+    width: 100%;
+    height: 100PX;
+    display: flex ;
+    text-align: right;
+    
+   
+}
+
+.navbar .down-nav .text h1{
+    color: antiquewhite;
+    cursor: pointer;
+    margin-top: 20px ;
+    margin-left: 20px;
+}
+
+.navbar .down-nav .items {
+   margin-top: 65px;
+   margin-left: 240px;
+}
+
+#green .container .row{
+    background-color: green;
+    width: 100%;
+    height: 300px;
+    margin-top: -15px;
+   margin-left: 0px;
+}
+
+#green .titul-msg{
+    color: white;
+    margin-top: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#green .lorem{
+    color: white;
+
+}
+
+#green .button {
+    margin-left: 500px;
+}
+
+#green .foto{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
+#datas .container .row{
+    background-color: rgb(14, 43, 14);
+    width: 100%;
+    height: 300px;
+    margin-top: -15px;
+   margin-left: 0px;
+}
+
+
+#datas .left-datas .rov1{
+    display:flex;
+    color: white;
+    margin-top: 40px;
+    margin-left: 70px;
+
+}
+
+#datas .left-datas .text{
+    margin-left: 10px;
+}
+
+
+#datas .left-datas .info1{
+    color: white;
+    margin-left: 70px;
+}
+
+
+#datas .center-datas .text{
+    color: white;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+
+#datas .center-datas .lorem{
+    color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: medium;
+}
+
+
+
+#datas .right-datas .text{
+    color: white;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+
+#datas .right-datas .text1{
+    color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: medium;
+}
+
+
+
+#datas .right-datas .text2{
+    color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: medium;
+}
+
+#datas-down .container .row{
+    background-color: rgb(13, 24, 11);
+    width: 100%;
+    height: 400px;
+    margin-top: -15px;
+   margin-left: 0px;
+}
+
+
+#datas-down .left-data .title-text{
+    color: rgb(20, 220, 63);
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+
+#datas-down .left-data .full-datas{
+    color: wheat;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: medium;
+}
+
+
+#datas-down .right-datas .titul-text{
+    color: rgb(20, 220, 63);
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+
+
+#datas-down .right-datas .fotos{
+    margin-top: 30px;
+    margin-left: 39px;
+} 
+
+
+
+
+
